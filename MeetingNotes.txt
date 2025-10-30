@@ -5,3 +5,17 @@ Introduction
 -Set up the question
 -Find the datas
 -Refer to CSAS 2025
+
+Oct.8th
+-No Meeting
+
+Oct. 15th
+-Change the variables (not informative enough)
+
+Oct. 22nd
+-Assign the new topic: Two-way players
+-Focusing Ohtani Shohei data.
+-Reduce the scale of x(rest days) because the outliers are effecting the whole datas.
+
+Oct. 31st
+-
