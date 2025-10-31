@@ -13,11 +13,6 @@ By integrating Ohtani’s pitching and hitting data, this research seeks to iden
 
 ## Simulation
 <img width="484" height="332" alt="Screenshot 2025-10-30 at 12 47 24 PM" src="https://github.com/user-attachments/assets/deec71cd-4dc2-4402-8306-9db949198c38" />
-
-(Intercept)                  -3.511205   0.573768  -6.120 9.38e-10 ***
-arm_angle_dev                 0.013676   0.008533   1.603   0.1090    
-release_speed                 0.013215   0.006219   2.125   0.0336 *  
-n_thruorder_pitcher           0.105885   0.045430   2.331   0.0198 *  
-pitcher_days_since_prev_game -0.005557   0.003998  -1.390   0.1646    
+   
 <img width="468" height="90" alt="image" src="https://github.com/user-attachments/assets/0707b92d-fd87-449d-8cf1-0b07de8e6365" />
 
